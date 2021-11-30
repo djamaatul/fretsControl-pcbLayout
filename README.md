@@ -1,7 +1,8 @@
 # fretsControl-pcbLayout
-pcb dsign repository
 
-### make with Kicad
+Sketch : [FretsControl.ino](https://github.com/djamaatul/FretsControl.ino)
+
+## make with Kicad
 
 
 ### project maked : 
